@@ -18,5 +18,8 @@
     "trailingComma": "none",
     "bracketSpacing": true,
     "arrowParens": "avoid"
+  },
+  "dependencies": {
+    "@types/node": "^20.3.1"
   }
 }
