@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 export const deepEqual = (obj1: any, obj2: any): boolean => {
   // Compare non-object values directly
   if (obj1 === obj2) {

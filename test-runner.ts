@@ -1,4 +1,3 @@
-import { test } from 'node:test';
 import { Test, TestResult } from './types';
 import expectHandler from './utils/expect';
 import { readdirSync, lstatSync } from 'fs';
